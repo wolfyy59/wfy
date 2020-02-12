@@ -1,6 +1,6 @@
 #!/bin/bash
 
 apt install figlet toilet php -y
-echo portforwarding activated!
+echo PORTFORWARD ACTIVATED!
 php hak.php
 
