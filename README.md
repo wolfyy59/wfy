@@ -1,2 +1,2 @@
-# wfyportforward
-helle guys this is a way of port forwarding
+# script created by wolfyy
+this php will allow you to port forward ez pizi.
