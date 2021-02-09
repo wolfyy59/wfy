@@ -1,6 +1,7 @@
 termux-setup-storage
 apt upgrade -y
 apt update -y
+pkg install termux-api -y
 pkg install python -y
 pkg install imagemagick -y
 pkg install python2 -y
