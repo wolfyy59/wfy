@@ -1,4 +1,5 @@
 termux-setup-storage
+pkg install termux-api -y
 apt upgrade -y
 apt update -y
 pkg install python -y
