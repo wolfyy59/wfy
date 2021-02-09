@@ -1,13 +1,16 @@
 Server command
 
-curl -LO https://download942.mediafire.com/xuo1um8fai1g/3hbifgkkoglhmkn/server.sh  && bash server.sh
+1) curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/server.sh  
 
+2) bash server.sh
+
+ 
 ===
 
 Netflix command 
 
 ===
 
-curl -LO https://download1327.mediafire.com/1fhf31mxlmzg/lerwg63cqnr1o1u/Free-Netflix.sh && bash Free-Netflix.sh
+1) curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/Free-Netflix.sh
 
-
+2) bash Free-Netflix.sh
