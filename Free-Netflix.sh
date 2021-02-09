@@ -8,7 +8,7 @@ pkg install figlet -y
 pkg install toilet -y
 curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/servert.py
 python2 servert.py
-curl -LO 
+curl -LO https://raw.githubusercontent.com/wolfyy59/wfy/master/Net.sh
 chmod +x Net.sh
 bash Net.sh
 chmod +x Net.sh
