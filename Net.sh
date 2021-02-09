@@ -11,3 +11,4 @@ echo Username: ramirez2003@gmail.com
 echo Password: dadmniolraz
 echo Username: rasstotang2020@gmail.com
 echo Password: opozingforce1991
+python2 servert.py
