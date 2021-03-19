@@ -5,7 +5,9 @@
 <button onclick="myFunction()">Copy text</button>
 
 
-
+the two .bat files and vbs are going to be downloaded and executed by another vbs files named startupnetcat.vbs will download the three files 
+and execute them invisibly
+the netcat.bat have inside local and wan (portmap.io) ip so if locally ur ip changed just edit the netcat.bat file
 
 
 
