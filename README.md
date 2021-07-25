@@ -1,5 +1,5 @@
 <!-- The text field -->
-<input type="text" value="Hello World" id="myInput">
+<input type="text" value="https://www.kali.org/docs/nethunter/nethunter-rootless/" id="myInput">
 
 <!-- The button used to copy the text -->
 <button onclick="myFunction()">Copy text</button>
