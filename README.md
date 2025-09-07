@@ -22,9 +22,9 @@
 ## 📥 Download MyVPN
 
 <p align="center">
-  <a href="https://your-link-here.com">
-    <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-red?style=for-the-badge&logo=cloud&logoColor=white" 
-         alt="Download MyVPN" height="150">
+  <a href="https://your-link-here.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/⬇️_Download_MyVPN-BIG_RED?style=for-the-badge&color=red" 
+         alt="Download MyVPN" width="400" height="120">
   </a>
 </p>
 
